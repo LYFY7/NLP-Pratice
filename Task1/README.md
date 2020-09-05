@@ -1,2 +1,3 @@
-使用最简单的BOW+LR进行分类，最终KAGGLE准确率为56%左右。
-考虑到是比较简单的方法且没有进行详细的处理，个人暂时认为可以接受。
+Use the method Bag of words and logistic regression as the main model. \n
+The final score is 0.56 (525/780). \n
+Because it is the base way without any change of hyperparameters, I think the result is ok.
