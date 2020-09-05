@@ -1,2 +1,2 @@
 # NLP-Pratice
- Some NLP Pratice
+Codes for NLP-Beginner problems proposed by DR.QIU.
