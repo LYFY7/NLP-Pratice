@@ -1,2 +1,2 @@
 # NLP-Pratice
-Codes for NLP-Beginner problems proposed by DR.QIU.
+Codes for [NLP-Beginner](https://github.com/FudanNLP/nlp-beginner) problems proposed by DR.QIU.
